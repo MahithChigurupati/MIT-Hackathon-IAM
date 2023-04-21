@@ -1,0 +1,19 @@
+{
+  "name": "mit-hackathon-iam",
+  "version": "1.0.0",
+  "description": "Cross Chain Identity Management System built during MIT Bitcoin Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:MahithChigurupati/MIT-Hackathon-IAM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
